@@ -1,0 +1,5 @@
+ext.moduleName = 'de.uniks.vs.physics'
+
+dependencies {
+    implementation project(':graphmodel')
+}
